@@ -1,0 +1,13 @@
+### Login
+GET http://localhost:3333/login/qr/key
+
+### QR
+
+GET  http://localhost:3333/login/qr/create
+?key=48776019-2fd5-4bae-b144-4ed19a7d566a
+&qrimg=true
+
+### login check
+
+GET  http://localhost:3333/login/qr/check
+?key=69f3dfe2-2787-4994-9ad3-435b64e013dc
