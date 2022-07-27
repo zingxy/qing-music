@@ -31,7 +31,8 @@
 - 基本的播放功能
   - 暂停
   - 上下切换
-  -
+  
+
 
 ## Todo
 
@@ -39,3 +40,6 @@
 - 其它模块的开发
 
 ## 示例
+![image](https://user-images.githubusercontent.com/28285708/181204730-57afcb82-69d3-4ba8-98e9-21598d70d2ff.png)
+ ![image](https://user-images.githubusercontent.com/28285708/181204781-6fbcba48-9397-4972-acfd-73e73292240e.png)
+
