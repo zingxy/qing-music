@@ -12,7 +12,7 @@
   将 API ·git clone·后，将端口改为 3333
 
 ## 目录结构
-
+```
 └───src
 ├───assets 静态
 ├───components 组件
@@ -22,6 +22,7 @@
 ├───services 网络请求
 ├───store 状态管理
 └───views 路由组件
+```
 
 ## 已完成的功能
 
